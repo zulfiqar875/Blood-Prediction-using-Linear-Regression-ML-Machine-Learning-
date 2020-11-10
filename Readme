@@ -1,0 +1,9 @@
+In this code, we will predict the Blood Pressure using Machine Learning Algorithm
+
+we are using Linear Regression for forecasting the High Blood
+
+we are using Data set of blood pressure who available on Kaggle.
+
+we are trained 80Per data and test 20Per data
+
+accuracy of the model score is 60 percent this is not bad for initial testing, how actually the work.
